@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tucuman Rock Fest",
+    "ciudad": "San Miguel de Tucuman",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "Los Piojos",
+        "genero": "Rock",
+        "integrantes": 5,
+        "rating": 9
+      },
+      {
+        "nombre": "Miranda!",
+        "genero": "Pop",
+        "integrantes": 2,
+        "rating": 8
+      },
+      {
+        "nombre": "Airbag",
+        "genero": "Rock",
+        "integrantes": 3,
+        "rating": 8
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "Campo",
+        "precio": 45000,
+        "vendidas": 3200
+      },
+      {
+        "tipo": "VIP",
+        "precio": 90000,
+        "vendidas": 450
+      }
+    ],
+    "sponsors": [
+      "Quilmes",
+      "Personal",
+      "Monster"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Electro Summer",
+    "ciudad": "Cordoba",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "DJ Nova",
+        "genero": "Electronica",
+        "integrantes": 1,
+        "rating": 7
+      },
+      {
+        "nombre": "Solar Beat",
+        "genero": "Electronica",
+        "integrantes": 2,
+        "rating": 8
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "General",
+        "precio": 30000,
+        "vendidas": 5000
+      },
+      {
+        "tipo": "VIP",
+        "precio": 70000,
+        "vendidas": 600
+      }
+    ],
+    "sponsors": [
+      "Red Bull",
+      "Sony"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Festival del Norte",
+    "ciudad": "Salta",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "Los Tekis",
+        "genero": "Folklore",
+        "integrantes": 6,
+        "rating": 9
+      },
+      {
+        "nombre": "Chaqueño Palavecino",
+        "genero": "Folklore",
+        "integrantes": 4,
+        "rating": 9
+      },
+      {
+        "nombre": "Abel Pintos",
+        "genero": "Pop",
+        "integrantes": 3,
+        "rating": 8
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "Campo",
+        "precio": 35000,
+        "vendidas": 4200
+      },
+      {
+        "tipo": "Platea",
+        "precio": 55000,
+        "vendidas": 1200
+      }
+    ],
+    "sponsors": [
+      "Quilmes",
+      "Naranja X"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Metal Attack",
+    "ciudad": "Buenos Aires",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "V8 Legacy",
+        "genero": "Metal",
+        "integrantes": 5,
+        "rating": 8
+      },
+      {
+        "nombre": "Dark Fire",
+        "genero": "Metal",
+        "integrantes": 4,
+        "rating": 7
+      },
+      {
+        "nombre": "Infernal Noise",
+        "genero": "Metal",
+        "integrantes": 6,
+        "rating": 8
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "General",
+        "precio": 28000,
+        "vendidas": 3800
+      },
+      {
+        "tipo": "VIP",
+        "precio": 65000,
+        "vendidas": 500
+      }
+    ],
+    "sponsors": [
+      "Monster",
+      "Adidas"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Urban Beats",
+    "ciudad": "Rosario",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "Neo Trap",
+        "genero": "Trap",
+        "integrantes": 2,
+        "rating": 7
+      },
+      {
+        "nombre": "Barrio Flow",
+        "genero": "Trap",
+        "integrantes": 5,
+        "rating": 8
+      },
+      {
+        "nombre": "Ritmo Libre",
+        "genero": "Hip Hop",
+        "integrantes": 4,
+        "rating": 8
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "Campo",
+        "precio": 40000,
+        "vendidas": 6100
+      },
+      {
+        "tipo": "VIP",
+        "precio": 85000,
+        "vendidas": 900
+      }
+    ],
+    "sponsors": [
+      "Sprite",
+      "Personal",
+      "Quilmes"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Indie Wave",
+    "ciudad": "Mendoza",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "Northern Lights",
+        "genero": "Indie",
+        "integrantes": 4,
+        "rating": 8
+      },
+      {
+        "nombre": "Blue Frames",
+        "genero": "Indie",
+        "integrantes": 5,
+        "rating": 9
+      },
+      {
+        "nombre": "Silent Echo",
+        "genero": "Alternative",
+        "integrantes": 3,
+        "rating": 8
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "General",
+        "precio": 33000,
+        "vendidas": 2900
+      },
+      {
+        "tipo": "VIP",
+        "precio": 72000,
+        "vendidas": 350
+      }
+    ],
+    "sponsors": [
+      "Heineken",
+      "Sony"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Cumbia Explosion",
+    "ciudad": "Santa Fe",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "Los Palmeras",
+        "genero": "Cumbia",
+        "integrantes": 6,
+        "rating": 9
+      },
+      {
+        "nombre": "La Konga",
+        "genero": "Cuarteto",
+        "integrantes": 7,
+        "rating": 9
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "Campo",
+        "precio": 25000,
+        "vendidas": 7200
+      },
+      {
+        "tipo": "VIP",
+        "precio": 60000,
+        "vendidas": 800
+      }
+    ],
+    "sponsors": [
+      "Quilmes",
+      "Coca Cola"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Jazz & Blues Nights",
+    "ciudad": "Buenos Aires",
+    "anio": 2025,
+    "bandas": [
+      {
+        "nombre": "Blue Notes",
+        "genero": "Jazz",
+        "integrantes": 5,
+        "rating": 8
+      },
+      {
+        "nombre": "Soul River",
+        "genero": "Blues",
+        "integrantes": 4,
+        "rating": 8
+      }
+    ],
+    "entradas": [
+      {
+        "tipo": "General",
+        "precio": 38000,
+        "vendidas": 2100
+      },
+      {
+        "tipo": "VIP",
+        "precio": 78000,
+        "vendidas": 250
+      }
+    ],
+    "sponsors": [
+      "Sony",
+      "Quilmes"
+    ]
+  }
+]
